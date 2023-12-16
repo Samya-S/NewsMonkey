@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# NewsMonkey
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+NewsMonkey is a news app which can be used to grab quick daily news bites. If you are interested in news, weather, politics and sports news, NewsMonkey is for you!
+
+This project was made with [Create React App](https://github.com/facebook/create-react-app) using React framework.
+
+Below are the documentation to run, build and deploy this app.
 
 ## Available Scripts
 
