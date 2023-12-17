@@ -2,9 +2,17 @@
 
 NewsMonkey is a news app which can be used to grab quick daily news bites. If you are interested in news, weather, politics and sports news, NewsMonkey is for you!
 
-This project was made with [Create React App](https://github.com/facebook/create-react-app) using React framework. This app uses react class based components.
+This project was made with [Create React App](https://github.com/facebook/create-react-app) using React framework.
 
-Below are the documentation to run, build and deploy this app.
+Earlier version of this app uses react class based components - [Go to class based version](https://github.com/Samya-S/NewsMonkey/tree/eb13c6f504d9923266aacadf7fa841bc046d857e).
+Current version of this app uses react function based components.
+
+><strong>Please Note:</strong> This app uses NewsAPI from [newsapi.org](https://newsapi.org/) to fetch news. Currently newsapi.org supports free API calls only from development server (i.e. localhost) and hence this app is not hosted anywhere else.
+
+<br>
+<br>
+
+Below are the documentation to run, build and deploy this app. Remember to generate the node_modules folder to reinstall the project dependencies for this app using `npm install`.
 
 ## Available Scripts
 
